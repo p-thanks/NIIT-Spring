@@ -139,7 +139,7 @@ npm start
 ## 📂 Project Structure
 
 ```
-ecommerce-app/
+NIIT-Spring/
 │
 ├── 📁 backend/
 │   ├── 📁 src/
