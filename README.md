@@ -102,8 +102,8 @@
 #### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-app.git
-cd ecommerce-app
+git clone https://github.com/p-thanks/NIIT-Spring.git
+cd NIIT-Spring
 ```
 
 #### 2️⃣ Backend Setup
@@ -331,15 +331,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+**Paul Thanksgiving** - [@PThanks01](https://x.com/PThanks01) - pthanksdev@gmail.com
 
-**Project Link:** [https://github.com/yourusername/ecommerce-app](https://github.com/yourusername/ecommerce-app)
+**Project Link:**[Ecommerce](https://github.com/p-thanks/NIIT-Spring.git)
 
 ---
 
 ### ⭐ Star this repo if you like it!
 
-Made with ❤️ and ☕
+Made with Pthanks and ☕
 
 </div>
 
