@@ -132,7 +132,7 @@ npm install
 npm start
 ```
 
-> 🌐 Frontend runs on `http://localhost:3000`
+> 🌐 Frontend runs on `http://localhost:5173`
 
 ---
 
